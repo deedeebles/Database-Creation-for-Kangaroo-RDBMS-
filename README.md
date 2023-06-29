@@ -123,7 +123,7 @@ I created a **_table with the following entities and attributes_**
 
 ## Entity Relation Diagram for Kangaroo Database
 
-The ERD was designed using **-CHEN'S NOTATION-**
+The ERD was designed using **-CROW'S FOOT NOTATION-**
 
 ![!](erd.png)
 
